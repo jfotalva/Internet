@@ -1,0 +1,7 @@
+
+Crear una aplicación Node.js por defecto.
+npm init -y
+npm i express
+npm i cors
+
+express() = Framework de Node 
